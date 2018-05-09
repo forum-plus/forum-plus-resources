@@ -1,0 +1,24 @@
+{
+  "name": "forum-plus-resources",
+  "version": "1.0.0",
+  "description": "forum plus resources",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forum-plus/forum-plus-resources.git"
+  },
+  "keywords": [
+    "forum-plus",
+    "forum"
+  ],
+  "author": {
+    "name": "ZHAO Xudong",
+    "email": "zxdong@gmail.com",
+    "url": "https://html5beta.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forum-plus/forum-plus-resources/issues"
+  },
+  "homepage": "https://github.com/forum-plus/forum-plus-resources#readme"
+}
